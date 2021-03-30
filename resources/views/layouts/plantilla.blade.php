@@ -62,7 +62,7 @@
 
     @yield('content')
 
-   
+    @yield('content')
 
     {{-- Footer --}}
     {{-- Script --}}
